@@ -18,7 +18,7 @@ O site consiste em uma pesquisa de cep, onde o usuário preenche um cep válido 
 # Tecnologias utilizadas
 
 - HTML / CSS / JS
-- ReactJS
+- ReactJS.
 
 # Como rodar o projeto:
 Você pode clonar o projeto e rodá-lo localmente seguindo os passos abaixo
